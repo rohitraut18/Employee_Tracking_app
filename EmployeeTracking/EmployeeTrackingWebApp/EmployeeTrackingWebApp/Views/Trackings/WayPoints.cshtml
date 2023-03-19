@@ -1,0 +1,153 @@
+﻿@using EmployeeTrackingWebApp.Models
+@model IEnumerable<EmployeeTrackingWebApp.Models.Tracking>
+
+
+@{
+    ViewBag.Title = "Index";
+
+    AppUser UserToTrack = ViewBag.AppUserToTrack;
+
+    SelectList FromHours = ViewBag.FromHours;
+    SelectList FromMinutes = ViewBag.FromMinutes;
+
+    TrackingDuration duration = new TrackingDuration() { AppUserId = UserToTrack.AppUserId };
+}
+
+<h5 class="text-uppercase" style="margin-top:2rem; font-weight:bold;color:#808080">Track Locations</h5>
+
+<div class="panel panel-default" style="max-width:480px">
+    <div class="panel-heading">
+        <h5 class="text-uppercase" style="font-weight:bold;color:#000000">@UserToTrack.FullName</h5>
+
+        <div>
+            <i class="fas fa-mobile"></i> @UserToTrack.MobileNo
+            <i class="fas fa-mail-bulk"></i> @UserToTrack.EmailId
+        </div>
+
+        <div style="margin-top:5px">
+            <a href="@Url.Action("LastKnownLocation","Trackings", new { id=UserToTrack.AppUserId })" class="btn btn-sm btn-default">LAST KNOWN LOCATION</a>
+        </div>
+    </div>
+</div>
+@using (Html.BeginForm("WayPoints", "Trackings", FormMethod.Post))
+{
+    @Html.HiddenFor(d => duration.AppUserId)
+    <div class="form-inline">
+        <span>From</span>
+        <div class="form-group">
+            @Html.TextBoxFor(d => duration.FromDate, new { @class = "form-control form-control-sm", placeholder = "dd-MMM-yyyy" })
+            <div>@Html.ValidationMessageFor(d => duration.FromDate, "", new { @class = "text-danger" })</div>
+        </div>
+        <div class="form-group">
+            @Html.DropDownListFor(d => duration.FromHours, FromHours, "HH", new { @class = "form-control form-control-sm" })
+            <div>
+                @Html.ValidationMessageFor(d => duration.FromHours, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.DropDownListFor(d => duration.FromMinutes, FromMinutes, "MM", new { @class = "form-control form-control-sm" })
+            <div>
+                @Html.ValidationMessageFor(d => duration.FromMinutes, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <span style="padding-left:1rem;">To</span>
+        <div class="form-group">
+            @Html.TextBoxFor(d => duration.ToDate, new { @class = "form-control form-control-sm", placeholder = "dd-MMM-yyyy" })
+            <div>
+                @Html.ValidationMessageFor(d => duration.ToDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.DropDownListFor(d => duration.ToHours, FromHours, "HH", new { @class = "form-control form-control-sm" })
+            <div>
+                @Html.ValidationMessageFor(d => duration.ToHours, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.DropDownListFor(d => duration.ToMinutes, FromMinutes, "MM", new { @class = "form-control form-control-sm" })
+            <div>
+                @Html.ValidationMessageFor(d => duration.ToMinutes, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <span style="padding-left:1rem;">&nbsp;</span>
+        <div class="form-group">
+            <button type="submit" class="btn btn-sm btn-default">SHOW</button>
+        </div>
+
+
+    </div>
+}
+
+
+
+<div id="map" style="margin-top:15px"></div>
+
+@section scripts{
+
+    <script>
+
+    $(document).ready(function () {
+        $("#duration_FromDate").datepicker({
+            changeYear: true,
+            yearRange: "2019:@DateTime.Now.Year"
+        });
+        $("#duration_ToDate").datepicker({
+            changeYear: true,
+            yearRange: "2019:@DateTime.Now.Year"
+        });
+    })
+         
+    function initMap() {
+        var map = new google.maps.Map(document.getElementById('map'), {
+        zoom: 13,
+        center: {lat: 17.68142, lng:74.01377},
+        mapTypeId: 'terrain'
+        });
+
+        var waypoints = [
+            @foreach (Tracking t in Model)
+            {
+                @Html.Raw("{lat: " + t.Lat + ", lng: " + t.Long + ", dt: '" + t.OnDateTime.ToString("dd MMM yy hh:mm tt") + "' },");
+            } 
+        ];
+
+        // place the markers to the polyline's points
+        var latLngBounds = new google.maps.LatLngBounds();
+            for(var i = 0; i < waypoints.length; i++) {
+            latLngBounds.extend(waypoints[i]);
+            // Place the marker
+            var marker = new google.maps.Marker({
+                map: map,
+                position: waypoints[i],
+                label: i.toString(),
+                ontime: waypoints[i].dt
+            });
+
+            marker.addListener('click', function () {
+                 
+                var infowindow = new google.maps.InfoWindow({
+                  content: this.ontime
+                });
+
+                infowindow.open(map, this);
+            });
+        }
+
+       
+
+        //Create polyline
+        var polyline  = new google.maps.Polyline({
+            path: waypoints,
+            geodesic: true,
+            strokeColor: '#FF0000',
+            strokeOpacity: 1.0,
+            strokeWeight: 2
+        });
+
+        polyline.setMap(map);
+        }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnn3YDpblUWVPQGe2n7zIBVUdsfmplOtU&callback=initMap"></script>
+}

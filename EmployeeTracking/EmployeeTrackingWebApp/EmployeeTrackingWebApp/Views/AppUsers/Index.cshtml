@@ -1,0 +1,60 @@
+﻿@model IEnumerable<EmployeeTrackingWebApp.Models.AppUser>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table table-responsive">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AppRole.AppRoleName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FullName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MobileNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EmailId)
+        </th> 
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AppRole.AppRoleName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MobileNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EmailId)
+        </td> 
+        <td> 
+            <div class="dropdown">
+                <div data-toggle="dropdown" >
+                    <i class="fas fa-chevron-circle-down"></i> 
+                </div>
+                <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
+                    <li>@Html.ActionLink("Last Known Location", "LastKnownLocation", "Trackings", new { id = item.AppUserId }, null)</li>
+                    <li role="separator" class="divider"></li> 
+                    <li>@Html.ActionLink("Edit", "Edit", new { id = item.AppUserId })</li>
+                    <li>@Html.ActionLink("Details", "Details", new { id = item.AppUserId })</li>
+                    <li>@Html.ActionLink("Delete", "Delete", new { id = item.AppUserId })</li>
+                </ul>
+            </div>
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,256 @@
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.dll.config
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.pdb
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.exe
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.exe.config
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.rsp
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.exe
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.exe.config
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.rsp
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.AppContext.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Console.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.Compression.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Net.Http.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Net.Sockets.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.ValueTuple.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.exe
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.exe.config
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.rsp
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Antlr3.Runtime.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Newtonsoft.Json.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Helpers.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Mvc.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Optimization.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Razor.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\WebGrease.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Helpers.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Mvc.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Optimization.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Razor.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Newtonsoft.Json.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Antlr3.Runtime.pdb
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csprojAssemblyReference.cache
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csproj.CopyComplete
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.pdb
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.SqlServer.dll
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.SqlServer.xml
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.Migrations.ModelsAddedAuthentications.resources
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csproj.GenerateResource.cache
+D:\Wisdom\BE\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.Migrations.ModelAddedTracking.resources
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.dll.config
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.pdb
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.exe
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.exe.config
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.rsp
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.exe
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.exe.config
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.rsp
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.AppContext.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Console.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Globalization.Calendars.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.Compression.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Net.Http.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Net.Sockets.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.ValueTuple.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XPath.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.exe
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.exe.config
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.rsp
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\VBCSCompiler.exe
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Antlr3.Runtime.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.SqlServer.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Newtonsoft.Json.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Helpers.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Mvc.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Optimization.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Razor.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Deployment.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Razor.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\WebGrease.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.SqlServer.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Helpers.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Mvc.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Optimization.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Razor.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Deployment.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Razor.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Newtonsoft.Json.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Antlr3.Runtime.pdb
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csprojAssemblyReference.cache
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.Migrations.ModelsAddedAuthentications.resources
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.Migrations.ModelAddedTracking.resources
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csproj.GenerateResource.cache
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csproj.CopyComplete
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.dll
+D:\Wisdom\BE For Exam\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.pdb
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.dll.config
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EmployeeTrackingWebApp.pdb
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.exe
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.exe.config
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csc.rsp
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.exe
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.exe.config
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\csi.rsp
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.AppContext.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Collections.Immutable.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Console.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Globalization.Calendars.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.Compression.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.FileSystem.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Net.Http.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Net.Sockets.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.ValueTuple.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XPath.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.exe
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.exe.config
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\vbc.rsp
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\VBCSCompiler.exe
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\roslyn\VBCSCompiler.exe.config
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Antlr3.Runtime.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.SqlServer.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Newtonsoft.Json.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Helpers.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Mvc.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Optimization.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Razor.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Deployment.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Razor.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\WebGrease.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\EntityFramework.SqlServer.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Helpers.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Mvc.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Optimization.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.Razor.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Deployment.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\System.Web.WebPages.Razor.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Newtonsoft.Json.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Antlr3.Runtime.pdb
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csprojAssemblyReference.cache
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.Migrations.ModelsAddedAuthentications.resources
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.Migrations.ModelAddedTracking.resources
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csproj.GenerateResource.cache
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csproj.CoreCompileInputs.cache
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.csproj.CopyComplete
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.dll
+F:\EmployeeTracking\EmployeeTrackingWebApp\EmployeeTrackingWebApp\obj\Debug\EmployeeTrackingWebApp.pdb

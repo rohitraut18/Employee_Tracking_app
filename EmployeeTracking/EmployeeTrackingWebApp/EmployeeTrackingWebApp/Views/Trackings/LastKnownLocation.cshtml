@@ -1,0 +1,71 @@
+﻿@model EmployeeTrackingWebApp.Models.Tracking
+@using EmployeeTrackingWebApp.Models
+
+@{
+    ViewBag.Title = "Index";
+
+    AppUser UserToTrack = ViewBag.AppUserToTrack;
+
+    SelectList FromHours = ViewBag.FromHours;
+    SelectList FromMinutes = ViewBag.FromMinutes;
+
+    TrackingDuration duration = new TrackingDuration() { AppUserId = UserToTrack.AppUserId };
+}
+
+<h5 class="text-uppercase" style="margin-top:2rem; font-weight:bold;color:#808080">Last Known Location</h5>
+
+<div class="panel panel-default" style="max-width:480px;">
+    <div class="panel-heading">
+        <h5 class="text-uppercase" style="font-weight:bold;color:#000000">@UserToTrack.FullName</h5>
+
+        <div>
+            <i class="fas fa-mobile"></i> @UserToTrack.MobileNo
+            <i class="fas fa-mail-bulk"></i> @UserToTrack.EmailId
+        </div> 
+        
+        <div style="margin-top:5px">
+            <a href="@Url.Action("WayPoints","Trackings", new { id=Model.AppUserId })"  class="btn btn-sm btn-default">SHOW WAY POINTS</a>
+        </div>
+    </div>
+</div>
+ 
+ 
+<div id="map"></div> 
+ 
+
+@section scripts{
+
+    <script> 
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 17,
+                center: { lat: @Model.Lat, lng: @Model.Long }
+            });
+
+            var contentString = "";
+            contentString += "<h5 class='text-uppercase' style='font-weight:bold;color:#000000'>@UserToTrack.FullName</h5>";  
+            contentString += "<div>"; 
+                contentString += "<i class='fas fa-mobile'></i> @UserToTrack.MobileNo"; 
+                contentString += " <i class='fas fa-mail-bulk'></i> @UserToTrack.EmailId"; 
+            contentString += "</div>"; 
+            contentString += "<div style='margin-top:5px'>";
+                contentString += "<i class='fas fa-stopwatch'></i> @Model.OnDateTime.ToString("dd MMM yy hh:mm tt")";
+            contentString += "</div>";
+
+            var infowindow = new google.maps.InfoWindow({
+              content: contentString
+            });
+
+             
+            var marker = new google.maps.Marker({
+                position: { lat: @Model.Lat, lng: @Model.Long }, 
+                map: map 
+            });
+
+            marker.addListener('click', function () {
+                infowindow.open(map, marker);
+            });
+        }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnn3YDpblUWVPQGe2n7zIBVUdsfmplOtU&callback=initMap"></script>
+}

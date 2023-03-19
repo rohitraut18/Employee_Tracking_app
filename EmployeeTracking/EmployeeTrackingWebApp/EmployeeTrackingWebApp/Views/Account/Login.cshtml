@@ -1,0 +1,83 @@
+﻿@model EmployeeTrackingWebApp.Models.SignIn
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<div class="form-horizontal">
+    @using (Html.BeginForm("Login", "Account", FormMethod.Post, new { id = "Login", onSubmit = "return Login(this);" }))
+    {
+        <div class="form-group">
+            @Html.ValidationMessageFor(model => model.Username, "", new { @class = "text-danger d-block " })
+            @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            <div id="msg" ></div>
+        </div>
+        <div class="form-group">
+            @Html.TextBoxFor(model => model.Username, new { @class = "form-control txt", placeholder = "Enter email id (Username)" })
+
+        </div>
+        <div class="form-group">
+            @Html.PasswordFor(model => model.Password, new { @class = "form-control txt", placeholder = "Password" })
+        </div>
+        <div class="form-group">
+            <div class="d-flex justify-content-center align-items-center ">
+                @Html.CheckBoxFor(model => model.KeepMeLogin) <span class="font-weight-500 pl-1 text-white"> Keep me login </span>
+            </div>
+        </div>
+        <div class="form-group">
+            <button id="btnLogin" type="submit" class="btn btn-warning">
+                <i class="fas fa-sign-in-alt"></i> Login
+            </button>
+        </div> 
+    }
+</div>
+
+
+@section scripts{
+
+    <script>
+         
+    function Login(form) {
+        $.validator.unobtrusive.parse(form);
+
+        if ($(form).valid()) {
+
+            var btn = $("#btnLogin");
+
+            $(btn).html("<i class='fas fa-spinner fa-spin nav-icon'></i> PLEASE WAIT").attr("disabled","disabled");
+
+            $.ajax({
+                type: 'POST',
+                url: form.action,
+                data: new FormData(form),
+                contentType: false,
+                processData: false,
+                success: function (response) {
+
+                    if (response.status != "ok") {
+                        $(btn).html("<i class='fas fa-sign-in-alt nav-icon'></i> Login").removeAttr("disabled");
+                        $("#msg").html("<div class='alert alert-danger'>" + response.message + "</div>");
+                        return false;
+                    }
+
+                    $("#msg").html("");
+                    var data = response.data;
+                    if (data != null) {
+                          window.location.href="@Url.Action("","Home")";
+                    }
+
+                },
+                error: function (jqXHR, exception) {
+                    $(btn).html("<i class='fas fa-sign-in-alt nav-icon'></i> Login").removeAttr("disabled");
+                    alert(jqXHR.statusText);
+                }
+
+            });
+
+        }
+
+        return false;
+    }
+    </script>
+}
